@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "87659398419",
+    "firebase_url": "https://tham-my-thu-hien-default-rtdb.firebaseio.com",
+    "project_id": "tham-my-thu-hien",
+    "storage_bucket": "tham-my-thu-hien.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87659398419:android:82e98bbb2148990d8606e6",
+        "android_client_info": {
+          "package_name": "thammythuhien.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLMdtFA0sNgUse1LFmoJmOe8rsTm7tClE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
